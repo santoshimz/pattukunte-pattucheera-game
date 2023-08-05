@@ -197,4 +197,8 @@ export const missingMovies = [
   "Phalana Abbayi Phalana Ammayi",
   "Urvasivo Rakshasivo",
   "Ravanasura",
+  "A Aa",
+  "Samajavaragamana",
+  "Mounamelanoyi",
+  "Naandhi"
 ];
